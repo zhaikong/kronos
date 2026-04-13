@@ -28,7 +28,6 @@ MANIFEST
 .idea/
 
 # VS Code
-.vscode/
 
 # macOS
 .DS_Store
@@ -60,7 +59,6 @@ Desktop.ini
 logs/
 
 # Environment
-.env
 .venv
 env/
 venv/
@@ -74,3 +72,5 @@ venv.bak/
 temp/
 tmp/
 .python-version
+config.bat
+node_modules
